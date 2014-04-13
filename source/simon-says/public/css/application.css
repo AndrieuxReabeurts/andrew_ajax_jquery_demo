@@ -9,6 +9,10 @@ th {
     text-align: left;
 }
 
+.div_color {
+  background-color: blue;
+}
+
 #color_me li{
  	display:block;
  	width:30%;
